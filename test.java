@@ -43,6 +43,6 @@ public class ChatAiConversation extends BaseEntity {
      */
   @Schema(description = "标题")
   private String title;
-
+sout     asdkjfhashff
 
 }
